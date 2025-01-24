@@ -13,9 +13,9 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Database setup
-The recommended database is MySQL / Mariadb. You can however use a database of your choice
+    1. The recommended database is MySQL / Mariadb. You can however use a database of your choice
 
-Steps:
+## Steps:
     1. Create a database named simbaziwani. If you wish to change the name, remember to update the .env file
     2. Create a database user (username and password of your choice)
     3. Record the username and password in the .env file
